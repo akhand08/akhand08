@@ -22,7 +22,10 @@ Passionate about merging backend engineering with artificial intelligence and ma
 
 
 ## Achievements and Awards:
+<ul>
+    <li> <strong style="font-size: 1.2em;">Champion Team</strong> at BUP Intra-University Programming Contest (Junior) - TechSUrgence 2022 </li>
+    <li>  <strong style="font-size: 1.2em;">4th</strong> at BUP Victory Day Contest 2022  </li>
+    
+</ul>   
 
-<p> <b>Champion Team></b> at BUP Intra-University Programming Contest (Junior) - TechSUrgence 2022 </p>
-<p> <b>4th</b> at BUP Victory Day Contest 2022
 
