@@ -5,8 +5,9 @@
 
 <p> An aspiring Software Engineer | Backend + AI/ML Enthusiast <br>
 Passionate about merging backend engineering with artificial intelligence and machine learning. Love to explore and solve complex programming problems. Let's create innovative solutions together! ✨🚀 </p> <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-adib-akhand-12b766171/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaibalmuhtadee/)
+<a href="https://www.linkedin.com/in/abdullah-al-adib-akhand-12b766171/">
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
+</a>
 <hr>
 
 
