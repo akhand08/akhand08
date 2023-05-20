@@ -5,7 +5,7 @@
 
 <p> An aspiring Software Engineer | Backend + AI/ML Enthusiast <br>
 Passionate about merging backend engineering with artificial intelligence and machine learning. Love to explore and solve complex programming problems. Let's create innovative solutions together! ✨🚀 </p>
-<p> Mail me at:  <strong> adib08@outlook.com </strong></pr> <br>
+<p> Mail me at:  <strong> adib08@outlook.com </strong></p> <br>
 <a href="https://www.linkedin.com/in/abdullah-al-adib-akhand-12b766171/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/> <br>
 </a>
