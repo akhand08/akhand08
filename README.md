@@ -3,7 +3,7 @@
 ## About Me
 ---  
 
-<p> Aspiring Software Engineer | Backend + AI/ML Enthusiast
+<p> Aspiring Software Engineer | Backend + AI/ML Enthusiast <br>
 Passionate about merging backend engineering with artificial intelligence and machine learning. Love to explore and solve complex programming problems. Let's create innovative solutions together! ✨🚀 </p> <br>
 ---
 
