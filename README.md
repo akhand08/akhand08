@@ -11,7 +11,7 @@ Passionate about merging backend engineering with artificial intelligence and ma
 </a>
 <hr>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=adib08)](https://github.com/akhand08/leetcode-stats)
+
 ## Languages and Tools:
 
 
@@ -31,6 +31,8 @@ Passionate about merging backend engineering with artificial intelligence and ma
 
 <hr>
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=adib08)](https://github.com/akhand08/leetcode-stats)
+<br>
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhand08&theme=vue)
 <hr>
 
