@@ -3,7 +3,7 @@
 ## About Me
 
 
-<p> An aspiring Software Engineer | Backend + AI/ML Enthusiast <br>
+<p> An aspiring Software Engineer | Backend + DevOps + Cloud <br>
 Passionate about merging backend engineering with artificial intelligence and machine learning. Love to explore and solve complex programming problems. Let's create innovative solutions together! ✨🚀 </p>
 <p> Mail me at:  <strong> adib08@outlook.com </strong></p> <br>
 <a href="https://www.linkedin.com/in/abdullah-al-adib-akhand-12b766171/">
