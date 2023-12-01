@@ -32,8 +32,3 @@ Passionate about merging backend engineering with artificial intelligence and ma
 <hr>
 
 
-<br>
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhand08&theme=vue)
-<hr>
-
-
