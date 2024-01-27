@@ -4,7 +4,7 @@
 
 
 <p> An aspiring Software Engineer | Backend + DevOps + Cloud <br>
-Passionate about merging backend engineering with artificial intelligence and machine learning. Love to explore and solve complex programming problems. Let's create innovative solutions together! ✨🚀 </p>
+I love building cool computer programs and making sure they work smoothly. I'm training to be a Software Engineer, focusing on creating the behind-the-scenes part of websites and apps, and making sure everything runs well on the internet. ✨🚀 </p>
 <p> Mail me at:  <strong> adib08@outlook.com </strong></p> <br>
 <a href="https://www.linkedin.com/in/abdullah-al-adib-akhand-12b766171/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/> <br>
