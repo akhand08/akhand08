@@ -32,6 +32,7 @@ I love building cool computer programs and making sure they work smoothly. I'm t
 ## 🏆 Achievements and Awards:
 
 <ul>
+    <li> <strong style="font-size: 1.2em;">1st Position</strong> at Programming Hero's Technical Article Writing Contest - 2024 </li>
     <li> <strong style="font-size: 1.2em;">Champion Team</strong> at BUP Intra-University Programming Contest (Junior) - TechSurgence 2022 </li>
     <li>  <strong style="font-size: 1.2em;" style="color: blue;">4th</strong> at BUP Victory Day Programming Contest 2022  </li>
     <li>  <strong style="font-size: 1.2em;" style="color: blue;">Runner-Up Team</strong> at AI & Cloud Innovation Challenge (organized by MLSA BUP in 2023)  </li>
