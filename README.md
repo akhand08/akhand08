@@ -26,30 +26,30 @@ These are the terms that sum me up. Really passionate about building data-intens
 <h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
 
 ### :dagger: &nbsp;Languages:
-- ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
-- ![](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
-- ![](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript)
-- ![](https://img.shields.io/badge/-Golang-0A1A2F?style=flat&logo=go)
-- ![](https://img.shields.io/badge/-C++-0A1A2F?style=flat&logo=cplusplus)
+ ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
+ ![](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
+ ![](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript)
+ ![](https://img.shields.io/badge/-Golang-0A1A2F?style=flat&logo=go)
+ ![](https://img.shields.io/badge/-C++-0A1A2F?style=flat&logo=cplusplus)
 
 ### :shield: &nbsp;Data:
-- ![](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
-- ![](https://img.shields.io/badge/-PostgreSQL-0A1A2F?style=flat&logo=postgresql)
-- ![](https://img.shields.io/badge/-Prisma-0A1A2F?style=flat&logo=prisma)
-- ![](https://img.shields.io/badge/-Drizzle ORM-0A1A2F?style=flat&logo=Drizzle)
+ ![](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+ ![](https://img.shields.io/badge/-PostgreSQL-0A1A2F?style=flat&logo=postgresql)
+ ![](https://img.shields.io/badge/-Prisma-0A1A2F?style=flat&logo=prisma)
+ Drizzle-ORM
 
 ### :crossed_swords: &nbsp;Frameworks/Libraries:
-- ![](https://img.shields.io/badge/-Express.JS-0A1A2F?style=flat&logo=express)
-- ![](https://img.shields.io/badge/-tRPC-0A1A2F?style=flat&logo=tRPC)
-- ![](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
-- ![](https://img.shields.io/badge/-Django Rest Framework-0A1A2F?style=flat&logo=django)
-- ![](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
-- ![](https://img.shields.io/badge/-Node.JS-0A1A2F?style=flat&logo=node.js)
+ ![](https://img.shields.io/badge/-Express.JS-0A1A2F?style=flat&logo=express)
+ ![](https://img.shields.io/badge/-tRPC-0A1A2F?style=flat&logo=tRPC)
+ ![](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
+ ![](https://img.shields.io/badge/django--rest--framework-3.12.4-blue?style=for-the-badge&labelColor=333333&logo=django&logoColor=white&color=blue)
+ ![](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+ ![](https://img.shields.io/badge/-Node.JS-0A1A2F?style=flat&logo=node.js)
 
 ### :hammer_and_wrench: &nbsp;Tools:
-- ![](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
-- ![](https://img.shields.io/badge/-HTML-0A1A2F?style=flat&logo=html5)
-- ![](https://img.shields.io/badge/-CSS-0A1A2F?style=flat&logo=css3)
+![](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+![](https://img.shields.io/badge/-HTML-0A1A2F?style=flat&logo=html5)
+
 
 
 ---
