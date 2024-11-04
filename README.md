@@ -42,13 +42,12 @@ These are the terms that sum me up. Really passionate about building data-intens
  ![](https://img.shields.io/badge/-Express.JS-0A1A2F?style=flat&logo=express)
  ![](https://img.shields.io/badge/-tRPC-0A1A2F?style=flat&logo=tRPC)
  ![](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
- ![](https://img.shields.io/badge/django--rest--framework-3.12.4-blue?style=for-the-badge&labelColor=333333&logo=django&logoColor=white&color=blue)
+ ![](https://img.shields.io/badge/django--rest--framework-3.12.4-blue?style=flat&logo=django)
  ![](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
  ![](https://img.shields.io/badge/-Node.JS-0A1A2F?style=flat&logo=node.js)
 
 ### :hammer_and_wrench: &nbsp;Tools:
 ![](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
-![](https://img.shields.io/badge/-HTML-0A1A2F?style=flat&logo=html5)
 
 
 
