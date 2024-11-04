@@ -1,7 +1,7 @@
 
 ## Hello, I'm Abdullah !
 
-## Backend Software Engineer 
+## a Backend Software Engineer 
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/adib08/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:adib08@outlook.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
@@ -23,22 +23,26 @@ These are the terms that sum me up. Really passionate about building data-intens
 - 💬 <b>Ask me about:</b> Tech, Astronomy, Politics
 
 ---
-<h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
 
-### :dagger: &nbsp;Languages:
+
+## 🛠️🧩⚙️  Tech Stack:
+
+
+
+- :dagger: &nbsp;Languages:&nbsp;
  ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
  ![](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
  ![](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript)
  ![](https://img.shields.io/badge/-Golang-0A1A2F?style=flat&logo=go)
  ![](https://img.shields.io/badge/-C++-0A1A2F?style=flat&logo=cplusplus)
 
-### :shield: &nbsp;Data:
+- :shield: &nbsp;Data:&nbsp;
  ![](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
  ![](https://img.shields.io/badge/-PostgreSQL-0A1A2F?style=flat&logo=postgresql)
  ![](https://img.shields.io/badge/-Prisma-0A1A2F?style=flat&logo=prisma)
  Drizzle-ORM
 
-### :crossed_swords: &nbsp;Frameworks/Libraries:
+- :crossed_swords: &nbsp;Libraries/Frameworks:&nbsp;
  ![](https://img.shields.io/badge/-Express.JS-0A1A2F?style=flat&logo=express)
  ![](https://img.shields.io/badge/-tRPC-0A1A2F?style=flat&logo=tRPC)
  ![](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
@@ -46,7 +50,7 @@ These are the terms that sum me up. Really passionate about building data-intens
  ![](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
  ![](https://img.shields.io/badge/-Node.JS-0A1A2F?style=flat&logo=node.js)
 
-### :hammer_and_wrench: &nbsp;Tools:
+- :hammer_and_wrench: &nbsp;Tools::&nbsp;
 ![](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
 
 
@@ -55,6 +59,8 @@ These are the terms that sum me up. Really passionate about building data-intens
 
 
 ## 🏆 Achievements and Awards:
+
+
 
 <ul>
     <li> <strong style="font-size: 1.2em;">1st Position</strong> at Programming Hero's Technical Article Writing Contest - 2024 </li>
