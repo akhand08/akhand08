@@ -1,33 +1,59 @@
-<h1> 👋 Hello, I'm Abdullah </h1>
 
-## About Me
+## Hello, I'm Abdullah !
 
-<p> An aspiring Software Engineer | Backend + DevOps + Cloud <br>
-I love building cool computer programs and making sure they work smoothly. I'm training to be a Software Engineer, focusing on creating the behind-the-scenes part of websites and apps, and making sure everything runs well on the internet. ✨🚀 </p>
-<p> Mail me at:  <strong> adib08@outlook.com </strong></p> <br>
-<a href="https://www.linkedin.com/in/abdullah-al-adib-akhand-12b766171/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/> <br>
-</a>
-<hr>
+## Backend Software Engineer 
 
-## 🚀 Skillset
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/adib08/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:adib08@outlook.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
-### 💻 Languages
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+> Backend Software engineer, Tech Enthusiast <br/>
+> Web Engineering + DevOps + MLops Enthusiast <br/>
 
-### 🛠️ Tools and Technologies
 
-<a href="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" target="_blank" rel="noreferrer"> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL" width="40" height="40"/> </a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--G5AWXQ2H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/i/v4y43jjfj7u5r8to8qdu.png" alt="React JS" width="40" height="40"/> </a>
-<br>
-<hr>
+Software | Infra | Database | Businesses 
+
+These are the terms that sum me up. Really passionate about building data-intensive product and making it live. Like experimenting and creating software of value
+
+### Things you should know
+
+- 🔭 <b>Currently working on:</b> Express.Js, tRPC, Django-Rest Framework
+- 🌱 <b>Getting better at:</b> writing tecchnical article
+- 🤔 <b>Exploring:</b> System Design, Software Infra & GenAI
+- 💬 <b>Ask me about:</b> Tech, Astronomy, Politics
+
+---
+<h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
+
+### :dagger: &nbsp;Languages:
+- ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
+- ![](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
+- ![](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript)
+- ![](https://img.shields.io/badge/-Golang-0A1A2F?style=flat&logo=go)
+- ![](https://img.shields.io/badge/-C++-0A1A2F?style=flat&logo=cplusplus)
+
+### :shield: &nbsp;Data:
+- ![](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+- ![](https://img.shields.io/badge/-PostgreSQL-0A1A2F?style=flat&logo=postgresql)
+- ![](https://img.shields.io/badge/-Prisma-0A1A2F?style=flat&logo=prisma)
+- ![](https://img.shields.io/badge/-Drizzle ORM-0A1A2F?style=flat&logo=Drizzle)
+
+### :crossed_swords: &nbsp;Frameworks/Libraries:
+- ![](https://img.shields.io/badge/-Express.JS-0A1A2F?style=flat&logo=express)
+- ![](https://img.shields.io/badge/-tRPC-0A1A2F?style=flat&logo=tRPC)
+- ![](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
+- ![](https://img.shields.io/badge/-Django Rest Framework-0A1A2F?style=flat&logo=django)
+- ![](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+- ![](https://img.shields.io/badge/-Node.JS-0A1A2F?style=flat&logo=node.js)
+
+### :hammer_and_wrench: &nbsp;Tools:
+- ![](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+- ![](https://img.shields.io/badge/-HTML-0A1A2F?style=flat&logo=html5)
+- ![](https://img.shields.io/badge/-CSS-0A1A2F?style=flat&logo=css3)
+
+
+---
+
 
 ## 🏆 Achievements and Awards:
 
@@ -36,6 +62,5 @@ I love building cool computer programs and making sure they work smoothly. I'm t
     <li> <strong style="font-size: 1.2em;">Champion Team</strong> at BUP Intra-University Programming Contest (Junior) - TechSurgence 2022 </li>
     <li>  <strong style="font-size: 1.2em;" style="color: blue;">4th</strong> at BUP Victory Day Programming Contest 2022  </li>
     <li>  <strong style="font-size: 1.2em;" style="color: blue;">Runner-Up Team</strong> at AI & Cloud Innovation Challenge (organized by MLSA BUP in 2023)  </li>
-</ul>   
+</ul>  
 
-<hr>
