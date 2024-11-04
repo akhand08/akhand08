@@ -1,4 +1,4 @@
-<h1> 👋 Hello, I'm Abdullah Al Adib Akhand </h1>
+<h1> 👋 Hello, I'm Abdullah </h1>
 
 ## About Me
 
