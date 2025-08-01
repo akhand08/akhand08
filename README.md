@@ -8,7 +8,7 @@
 
 
 > Backend Software engineer, Tech Enthusiast <br/>
-> Web Engineering + DevOps + MLops Enthusiast <br/>
+> Backend Engineering + DevOps + MLops Enthusiast <br/>
 
 
 Software | Infra | Database | Businesses 
